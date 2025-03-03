@@ -7,11 +7,11 @@ This project focuses on analyzing electricity demand data and weather conditions
 ```
 📂 Project Structure
 
-├── 📜 Task1.ipynb  # Data Loading & Integration <br>
-├── 📜 Task2.ipynb  # Data Preprocessing & Cleaning <br>
-├── 📜 Taskk3.ipynb # Exploratory Data Analysis (EDA) <br>
-├── 📜 Task4.ipynb  # Outlier Detection & Handling <br>
-├── 📜 Task5.ipynb  # Regression Modeling <br>
+├── 📜 Task1.ipynb  # Data Loading & Integration 
+├── 📜 Task2.ipynb  # Data Preprocessing & Cleaning
+├── 📜 Taskk3.ipynb # Exploratory Data Analysis (EDA)
+├── 📜 Task4.ipynb  # Outlier Detection & Handling
+├── 📜 Task5.ipynb  # Regression Modeling
 ```
 
 ---
